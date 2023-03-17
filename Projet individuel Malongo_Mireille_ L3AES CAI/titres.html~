@@ -1,0 +1,48 @@
+<!Doctype html>
+<html>
+  <head>
+      <title>Section TITRES</title>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="malongo.css">
+  </head>
+   <nav>
+            <ul>
+                <li class="menu-acceuil"><a href="malongo.html">ACCEUIL</a></li>
+                <li class="menu-apropos"><a href="apropos.html">A PROPOS</a></li>
+                <li class="menu-titres"><a href="titres.html">TITRES</a></li>
+                <li class="menu-boutique"><a href="boutique.html">BOUTIQUE</a></li>
+                <li class="menu-contact"><a href="contact.html">CONTACT</a></li>
+            </ul>
+        </nav>
+  
+  <body>
+       <h1>TITRES</h1>
+       
+        <h3>TITRES ET COMPOSITIONS</h3>
+         <h4>TITRE</h4>
+         <ul>
+           <li>RAIN</li>  
+           <li>CRY ME OUT</li>
+           <li>FALLING</li>
+        </ul>
+        <h4>COMPOSTIONS</h4>
+        <h5>DANCE:</h5>
+        <p><strong>WITH AKASH ODEDRA</strong></p>
+        <ul>
+          <li>Murmur(2013)</li>
+          <li>I imagine (2015)</li>
+          <li>Je suis (2018)</li>
+          <li>Samsara (2020)</li>
+        </ul>
+        <p><strong>WITH ADITI MANGALDAS</strong></p>
+        <ul>
+        <li>Forbidden (2022)</li>  
+        </ul>
+        <hr>
+         <footernter>Réalisé par MALONGO BOUANGA MIREILLE L3AES CAI<br>
+     <em><center>Réalisé par MALONGO BOUANGA MIREILLE L3AES CAI<br>
+     <em>MERCI POUR L'ATTENTION!</em></center></footer>
+  
+  </body>
+  
+</html>

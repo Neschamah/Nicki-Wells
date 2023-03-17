@@ -1,0 +1,126 @@
+html{
+    color: black;
+    background-color: blue;
+}
+
+p{
+  font-size: 30px;
+  margin-left: 50px;
+  margin-right: none;
+}
+
+
+body{
+	 font-family: 'source code pro', Calibri, serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    width: 100%;
+    background-color: deepskyblue;
+}
+
+nav ul{
+      margin: 0px;
+      padding: 0px; 
+      overflow:hidden; 
+}
+
+nav li{
+    list-style-type: none;
+    float: left;
+}
+
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 30px;
+    color: #FFF
+}
+.menu-acceuil:hover{
+    border-top: 5px solid #0070bb;
+    background-color: RGBa(000, 112, 192, 0, 15);
+}
+
+.menu-apropos:hover{
+    border-top: 5px solid #e44d26;
+    background-color: RGBa(228, 27, 38, 0, 15);
+}
+
+.menu-titres:hover{
+    border-top: 5px solid #0070bb;
+    background-color: RGBa(000, 112, 192, 0, 15);
+}
+
+.menu-boutique:hover{
+    border-top: 5px solid #f1dc4f;
+    background-color: RGBa(241, 211, 79, 0, 15);
+}
+
+.menu-contact:hover{
+    border-top: 5px solid #BBB;
+    background-color: RGBa(220, 220, 220, 0, 15);
+}
+
+
+
+.contenant {
+  font-size: 100px;
+  position: absolute;
+  text-align: center;
+  color: red;
+  background-size: 50%
+}
+
+.texte_centrer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.styles {
+  font-size: 50px;
+  position: relative;
+  text-align: left;
+  color: red;
+}
+texte_left {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1,h2{
+    font-size: 100px;
+    color: red;
+    font-style: italic;
+    float: center;
+}
+
+
+h3,h4{
+       font-size: 30px;
+       color: white;
+       font-style: italic;
+        margin-left: 50px;
+        margin-right: none;
+}
+
+h5{
+        font-size: 20px;
+        color: white;
+        font-style: italic;
+        margin-left: 50px;
+        margin-right: none;
+}
+
+
+img{
+      float: right;
+      clear: both;
+      padding: 1px solid #CCC;
+      box-shadow: 0px 0px 18px #BBB;
+}
+

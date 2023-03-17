@@ -1,0 +1,25 @@
+<!Doctype html>
+<html>
+  <head>
+      <title>CONTACT</title>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="malongo.css">
+  </head>
+  <nav>
+            <ul>
+                <li class="menu-acceuil"><a href="malongo.html">ACCEUIL</a></li>
+                <li class="menu-apropos"><a href="apropos.html">A PROPOS</a></li>
+                <li class="menu-titres"><a href="titres.html">TITRES</a></li>
+                <li class="menu-boutique"><a href="boutique.html">BOUTIQUE</a></li>
+                <li class="menu-contact"><a href="contact.html">CONTACT</a></li>
+            </ul>
+        </nav>
+  <body>
+      <a href="https://www.nickiwells.com/contact"> <h3>CLIQUEZ ICI POUR PLUS D'INFOS</h3></a>
+      <hr>
+      <footernter>Réalisé par MALONGO BOUANGA MIREILLE L3AES CAI<br>
+     <em><center>Réalisé par MALONGO BOUANGA MIREILLE L3AES CAI<br>
+     <em>MERCI POUR L'ATTENTION!</em></center></footer>
+  </body>
+  
+</html>

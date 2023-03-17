@@ -1,0 +1,60 @@
+<!Doctype html>
+<html>
+  <head>
+      <title>Section A PROPOS</title>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="malongo.css">
+  </head>
+  <nav>
+            <ul>
+                <li class="menu-acceuil"><a href="malongo.html">ACCEUIL</a></li>
+                <li class="menu-apropos"><a href="apropos.html">A PROPOS</a></li>
+                <li class="menu-titres"><a href="titres.html">TITRES</a></li>
+                <li class="menu-boutique"><a href="boutique.html">BOUTIQUE</a></li>
+                <li class="menu-contact"><a href="contact.html">CONTACT</a></li>
+            </ul>
+        </nav>
+  <body>
+       <h1>APROPOS</h1>
+       
+        <div>
+       <p><img src="nikki.jpg" alt="Nicki Wells"></p> 
+       </div>
+       <div>
+       <p><strong>Nicki Well est une chanteuse et compositrice Britanique</strong></p>
+         <p>Elle a suivi un <em>baccalauréat spécialisée en tournée musicale</em>
+         en tant <strong> que chanteuse vedette dans le groupe Nitin Sawhney.</strong></p>
+         <p>Elle s'est produite dans certaines des salles les plus prestigieuses
+         du monde, du Royal Albert Hall de Londres à l'Opéra de Sydney en passant 
+         par la scène principale de la pyramide de Glastonbury.</p>      
+    <p>En tant que compositrice à part entière, Nicki a marqué pour l'adaptation
+     théâtrale de Tanika Gupta de Great Expectations de Charles Dickens, la pièce 
+     de Howard Brenton Drawing the Line, acclamée par la critique. Elle a co-composé 
+     la partition du long métrage Vara - A Blessing de Khyentse Norbu et a également 
+     composé cinq spectacles du danseur contemporain Aakash Odedra, qui ont été présentés
+      dans des lieux comme Sadlers Wells, Royal Opera House et Edinburgh Fringe Festival, 
+      (remportant le prix Amnesty International pour l'émission politiquement consciente #JeSuis).
+       Nicki a également composé la partition de Girl Connected du réalisateur de documentaire
+        Koen Suidgeest, puis s'est associée à la célèbre sitariste Anoushka Shankar pour composer
+         la partition du prochain film documentaire sur le Dalaï Lama Un officier et Sa Sainteté.
+
+Nicki a de nouveau collaboré avec le danseur Aakash Odedra et le danseur chinois Hu Shenyuan, 
+composant la partition et se produisant dans la nouvelle production épique de Samsara qui a été créée
+ au Melbourne Arts Centre en 2020. Nicki compose actuellement la musique du légendaire danseur de Kathak 
+ Aditi Mangaldas. show Forbidden, dont la première aura lieu à Mumbai, en Inde, en 2022.</p>
+    
+      
+       
+        <h2>VIE PERSONELLE</h2>
+        <p>Fin 2022, la chanteuse s'est marié avec l'amour de sa vie et le couple a donné naissance à un joli 
+        garçon. 
+        Le couple est très heureux et passe so temps à profiter de leur nouvelle vie.
+        Nicki contiue cepedant à faire des tournages.</p>
+        
+        
+        <hr>
+         <footernter>Réalisé par MALONGO BOUANGA MIREILLE L3AES CAI<br>
+     <em><center>Réalisé par MALONGO BOUANGA MIREILLE L3AES CAI<br>
+     <em>MERCI POUR L'ATTENTION!</em></center></footer>
+  </body>
+</html>
